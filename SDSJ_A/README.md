@@ -7,10 +7,14 @@
 Остальные скрипты - разные решатели:
 
 nn5.py - сеточная модель, со сверточными и рекуррентными фрагментами.
-gbm_hyperopt.py - на базе sklearn:GradientBoostingClassifier плюс hyperopt
-lgb.py - на базе LightGBM
-xgboost0.py - на базе XGBoost
-lgb_hyperopt.py
-xgb_hyperopt.py
 
+gbm_hyperopt.py - на базе sklearn:GradientBoostingClassifier плюс hyperopt
+
+lgb.py - на базе LightGBM
+
+xgboost0.py - на базе XGBoost
+
+lgb_hyperopt.py
+
+xgb_hyperopt.py
 
