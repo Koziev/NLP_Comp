@@ -6,7 +6,7 @@
 
 Остальные скрипты - разные классификаторы:
 
-nn5.py - сеточная модель, со сверточными и рекуррентными фрагментами, на базе [Keras](https://keras.io/)
+nn5.py - сеточная модель, со сверточными и рекуррентными фрагментами, на базе [Keras](https://keras.io/)  
 gbm_hyperopt.py - решение на базе [sklearn:GradientBoostingClassifier](http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingClassifier.html) плюс [hyperopt](https://github.com/hyperopt/hyperopt)  
 lgb.py и lgb_hyperopt.py - решение на базе LightGBM  
 xgboost0.py и xgb_hyperopt.py - решение на базе XGBoost  
